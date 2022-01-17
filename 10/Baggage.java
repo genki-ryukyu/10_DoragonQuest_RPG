@@ -1,0 +1,4 @@
+interface Baggage {
+    String name();
+ }
+ 
